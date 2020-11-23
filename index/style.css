@@ -1,0 +1,58 @@
+@font-face{
+	font-family: jb;
+	src: url(jb.ttf);
+}
+
+ul.nav{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+.nav li { 
+    display: inline; 
+}
+ul.nav a {
+	font-family: jb;
+    display: inline-block;
+    width: 10em;
+    padding:10px;
+    background-color: #666666;
+    border: 1px dashed #666666;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+ul.nav a:hover{
+	font-family: jb;
+    background-color: #333;
+    color: #666666;
+}
+
+body{
+	background-color: #22222a;
+}
+h1{
+	font-family: jb;
+	color: white;
+}
+h6{
+	font-family: jb;
+	color: white;
+}
+p{
+	font-family: jb;
+	color: white;
+}
+a{
+	color: white;
+}
+a:visited{
+	color: white;
+}
+a:active{
+	color: white;
+}
+h3{
+	color: white;
+	font-family: jb;
+}
